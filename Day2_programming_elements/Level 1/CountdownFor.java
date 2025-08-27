@@ -15,4 +15,3 @@ public class CountdownFor {
         sc.close();
     }
 }
- 

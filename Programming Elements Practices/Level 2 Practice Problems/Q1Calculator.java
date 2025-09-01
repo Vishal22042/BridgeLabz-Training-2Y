@@ -21,4 +21,8 @@ public class Q1Calculator {
 
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 42634efad4a176871506665b1f7bc29f97650b42
